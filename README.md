@@ -2,7 +2,7 @@
 
 Kodlarken commentlere neyin ne olduğuna dair kendimce notlar almıştım, bu yüzden Türkçe kaynak olarak faydası olabileceğini düşündüğümden paylaşmak istedim.
 
-Kullandığım IDE [Dev-C++ 5.11](http://www.bloodshed.net/devcpp.html)
+Kullandığım IDE <a href="http://www.bloodshed.net/devcpp.html" target="_blank">Dev-C++ 5.11</a>
 
 ### Dev-C++ Default Source ayarım
 
@@ -19,14 +19,14 @@ Kullandığım IDE [Dev-C++ 5.11](http://www.bloodshed.net/devcpp.html)
 #include <windows.h> /* Sleep() için büyük s ile bu miliseconds tarzında bekletıyo yanı 1 sn ıcın (1000)*/
 
 int main() {
-	//setlocale(LC_ALL, "Turkish");
-	
+    //setlocale(LC_ALL, "Turkish");
 
-	printf("\n");
-	system("pause");
-	return 0;
-  /* Sleep(1000); // 1 sn bekletir (ms için) */
-	/* sleep(1); // 1 sn bekletir */
+
+    printf("\n");
+    system("pause");
+    return 0;
+    /* Sleep(1000); // 1 sn bekletir (ms için) */
+    /* sleep(1); // 1 sn bekletir */
 
 }
 ```
