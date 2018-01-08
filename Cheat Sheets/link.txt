@@ -1,0 +1,3 @@
+http://www.cplusplus.com/reference/cstring/strspn/
+
+sol taraftaki c libraryleri incele güzel seyler olablýr
